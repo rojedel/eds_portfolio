@@ -19,24 +19,19 @@ This is the second capstone project of the google data analytics course. In this
 - Utilized a publicly available dataset provided by Google, from public fitbit user data.
 - Performed data cleaning, data validation and data analysis and developed a data analysis report with visualizations outlining the insights that were discovered.
 - Visualizations done in R with the ggplot2 library.
-- A big caveat is that the dataset is too small to make an accurate extraction of insights. More analysis is required with a bigger sample size in order to confirm.
-- WIP.
+- A big caveat is that the dataset is too small to make an accurate extraction of insights. More analysis is required with a bigger sample size in order to confirm the hypothesis.
 
-## [Project 3: Kaggle dataset analysis] PENDING
-I will perform data analysis with R or python on a publicly available dataset, working all the data analysis cycle, preparing, business question, cleaning data, analysis, visualize, etc.
-- Python?
-- Streamlit website application?
-- Presentation
-- Good visualizations in a Tableau dashboard.
 
-## [Project 4: Data scrapping and data pipeline project] WORK IN PROGRESS
-I will perform the data analysis cycle with python scrapping the data from an online source, spotify API or likewise, in order to answer a business question.
+## [Project 3: Data scrapping and exploratory data analysis](https://github.com/rojedel/Local_market_EDA)
+In this project I built a data scraper python script to collect a grocery store product data. I got brand, pricing, department data on over 20K+ items. Using this dataset I set out to answer multiple business related questions on a Jupyter Notebook. I learned to use different python libraries such as pandas to wrangle data.
+Some key aspects of this project.
 - Python
-- Other technologies to do live data analysis or change over time.
-- Plotly?
+- Pandas
+- Plotly
 - Etc.
 
-## [Project 5: Machine learning model for NASA Jet Cycle data analysis]
-I intend to build a machine learning model to perform predictions of remaining useful life for NASA's jet engines. This is an old dataset nasa made public for these kind of analysis.
-- Python only
-- Proper visualizations and documentation
+## [**WIP**  Project 4: Machine learning model for NASA Jet Cycle data analysis]
+I intend to build a machine learning model to perform predictions of remaining useful life for NASA's jet engines. This is an old dataset nasa made public for these kind of predictive analytics.
+- Python
+- Predictive analytics.
+- Machine learning.
