@@ -1,6 +1,6 @@
 # Edgardo's Analytics Portfolio
 
-## [Project 1: Cyclistic bike service (Google Case Study)](https://github.com/rojedel/cyclistic-capstone-project/blob/main/Cyclsitic-Data-Analysis-Final.html)
+## [Project 1: Cyclistic bike service (Google Case Study)](https://rojedel.github.io/cyclistic-capstone-project/)
 This is a project I did as part of the google data analytics course. It is a capstone project where I got practice with all the tools and my recently learned data skills. The business task: Analyze Cyclistics bike sharing service usage data to find trends and insights into how different customer types use the service to find
 ways to convert casual members into subscribers. 
 - The data is from the divvy bike sharing service and is publicly available.
